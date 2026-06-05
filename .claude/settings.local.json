@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rtk ls *)",
+      "Bash(rtk pip *)",
+      "Bash(python3 -c \"from agno import Agent; help\\(Agent.__init__\\)\")",
+      "Bash(python3 *)",
+      "Bash(rtk grep *)"
+    ]
+  }
+}
