@@ -68,3 +68,4 @@ Thumbs.db
 # Application specific
 *.db
 !.gitignore
+.env
